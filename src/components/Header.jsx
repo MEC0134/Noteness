@@ -1,12 +1,13 @@
 import React from "react";
-import ArticleIcon from '@mui/icons-material/Article';
+import TipsAndUpdatesIcon from '@mui/icons-material/TipsAndUpdates';
+import CropPortraitIcon from '@mui/icons-material/CropPortrait';
 
 function Header() {
     return ( 
         <header>
         
             <h1>
-                <ArticleIcon sx={{color: "white"}}/>
+                <CropPortraitIcon sx={{color: "white"}}/>
                 Noteness
             </h1>
         </header>

@@ -9,11 +9,16 @@
 
   body {
     background: #eee;
-    padding: 0 16px;
+    background-color: #00b4eb;
+    background-color: #00b4eb;
+    background-color: #00b4eb;
+    background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
   }
   
   header {
-    background-color: #E86A33;
+    background-color: #e05a00;
+    text-align: center;
+    background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
     margin: auto -16px;
     padding: 16px 32px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -23,15 +28,21 @@
     color: #fff;
     font-family: "Baumans", cursive;
     font-weight: 200;
-    /* margin-left: 20px; */
   }
   
   footer {
-    position: absolute;
-    text-align: center;
+    position: fixed;
     bottom: 0;
-    width: 100%;
-    height: 2.5rem;
+    left: 0;
+    right: 0;
+    background-color: #e05a00;
+    background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
+    margin: auto -16px;
+    padding: 16px 32px;
+    height: 3.5rem;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    text-align: center;
+
   }
   
   footer p {
@@ -40,7 +51,7 @@
 
   .note-card {
     font-family: "Bauman";
-    background: #fff;
+    background: #ecf0f1;
     border-radius: 7px;
     box-shadow: 0 4px 5px #ccc;;
     padding: 10px;

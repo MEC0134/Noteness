@@ -98,8 +98,4 @@ function CreateNote(props) {
 }
 
 
-
-
-
-
 export default CreateNote;

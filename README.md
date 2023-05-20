@@ -31,7 +31,7 @@ Briefly introduce your project and provide any necessary background information.
 
 ## Features
 
-- Not Taking
+- Note Taking
 - User Friendly 
 - Simplicity
 - Attractive Design

@@ -1,14 +1,14 @@
-# Project Name
+## Project Name
 
-##### Noteness
+#### Noteness
 
 
-# Intro
+## Intro
 
 #### A sleek and modern note taking application designed for use on computers. 
 
 
-# Logo 
+## Logo 
 
 <img width="91" alt="image" src="https://github.com/MEC0134/noteness/assets/102277976/0f73d7d1-2a4a-4447-a9d7-c9074ebb4dbc">
 

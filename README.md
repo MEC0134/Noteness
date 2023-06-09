@@ -21,7 +21,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -46,6 +46,10 @@ Briefly introduce your project and provide any necessary background information.
 ## Usage
 
 The usage of the application will be clear by using it from the link below: 
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open a new issue or submit a pull request.
 
 Website Link: https://mec0134.github.io/noteness/
 

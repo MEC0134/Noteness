@@ -43,7 +43,7 @@ Briefly introduce your project and provide any necessary background information.
 
 ## Usage
 
-The usage of the application will be clear by using it from the link below: 
+The usage of the application will be clear by using it from the link at the bottom.
 
 ## Contributing
 

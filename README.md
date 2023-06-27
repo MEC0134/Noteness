@@ -3,7 +3,7 @@
 
 ## Intro
 
-#### A sleek and modern note taking application designed wtih on computer users in mind but still usable by users with smaller screens. (Database integration will be made at a later stage)
+#### A sleek and modern note taking application designed wtih on computer users in mind but still usable by users with smaller screens. 
 
 
 ## Logo 

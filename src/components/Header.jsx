@@ -1,13 +1,11 @@
 import React from "react";
-import TipsAndUpdatesIcon from '@mui/icons-material/TipsAndUpdates';
 import CropPortraitIcon from '@mui/icons-material/CropPortrait';
 
-function Header() {
-    return ( 
-        <header>
-        
+function Header({onColorChange, background}) {
+    return (
+        <header style={{backgroundColor: background}}>
             <h1>
-                <CropPortraitIcon sx={{color: "white"}}/>
+                <CropPortraitIcon className="header-icon" sx={{ color: "white" }} onClick={onColorChange} />
                 Noteness
             </h1>
         </header>

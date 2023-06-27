@@ -1,6 +1,4 @@
-## Project Name
-
-#### Noteness
+## Noteness
 
 
 ## Intro
@@ -51,5 +49,5 @@ The usage of the application will be clear by using it from the link below:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open a new issue or submit a pull request.
 
-Website Link: https://mec0134.github.io/noteness/
+[Website Link](https://mec0134.github.io/noteness/)
 
